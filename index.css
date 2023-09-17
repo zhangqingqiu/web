@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-align: center;
+}
+
+div {
+    width: 1000px;
+    height: 600px;
+    background-color: rgb(176, 173, 255);
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+a{
+    background-color: aliceblue;
+    text-decoration: none;
+}
+
+
+

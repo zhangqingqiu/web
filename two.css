@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-align: center;
+}
+
+#border {
+    width: 1000px;
+    height: 600px;
+    background-color: rgb(18, 230, 60);
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+ #top{
+    width: 1000px;
+    height: 150px;
+    background-color: rgb(53, 95, 95);
+} 
+
+#medium {
+    width: 1000px;
+    height: 300px;
+    background-color: rgb(6, 228, 177);
+}
+
+#bottom {
+    width: 1000px;
+    height: 150px;
+    background-color: rgb(19, 224, 74);
+}
+
+a{
+    background-color: aliceblue;
+    text-decoration: none;
+}
+
